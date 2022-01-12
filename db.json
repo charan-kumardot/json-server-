@@ -1,0 +1,46 @@
+{
+  "Details": [
+    {
+      "name": "charan",
+      "Designation": "clerk",
+      "status": "inactive",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "guru",
+      "Designation": "manager",
+      "status": "inactive"
+    },
+    {
+      "name": "ccc",
+      "Designation": "ddd",
+      "status": "aa",
+      "id": 4
+    },
+    {
+      "name": "arun",
+      "Designation": "technical ",
+      "status": "active",
+      "id": 5
+    },
+    {
+      "name": "arun",
+      "Designation": "technical ",
+      "status": "active",
+      "id": 6
+    },
+    {
+      "name": "vignesh",
+      "Designation": "manager",
+      "status": "active",
+      "id": 7
+    },
+    {
+      "name": "venkatesh",
+      "Designation": "techie",
+      "status": "active",
+      "id": 8
+    }
+  ]
+}
